@@ -1,7 +1,7 @@
 {
     "name": "🌹⃝𖣔𝐕𝐈𝐏 𝐌𝐔𝐒𝐈𝐂🥀⛦⃕‌🇮🇳",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/6461b3ec1edb3c561b144.jpg",
+    "logo": "https://telegra.ph/file/9c3760d876b93d78caddf.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐎𝐖𝐍𝐄𝐑 𝐈𝐃, 𝐔 𝐂𝐀𝐍 𝐔𝐒𝐄 𝐌𝐎𝐑𝐄 𝐏𝐄𝐑𝐒𝐎𝐍 𝐈𝐃 𝐁𝐘 𝐆𝐈𝐕𝐄𝐈𝐍𝐆 𝐒𝐏𝐀𝐂𝐄 𝐀𝐅𝐓𝐄𝐑 𝐎𝐍𝐄 𝐈𝐃.",
-        "value": "5738579437",
+        "value": "7304558394",
         "required": true
       },
       "STRING_SESSION": {
@@ -44,7 +44,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐇𝐄𝐑𝐎𝐊𝐔 𝐀𝐂𝐂. 𝐀𝐏𝐈 𝐊𝐄𝐘, 𝐈𝐅 𝐃𝐎𝐍𝐓 𝐊𝐍𝐎𝐖 𝐓𝐇𝐈𝐒 𝐓𝐇𝐄𝐍 𝐋𝐄𝐀𝐕𝐄 𝐓𝐇𝐈𝐒 𝐋𝐈𝐍𝐄 𝐁𝐋𝐀𝐍𝐊",
-        "value": "",
+        "value": "HRKU-55f03c75-f552-4ece-b7c0-0d6d54f4ed21",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -64,12 +64,12 @@
       },
       "START_IMG_URL": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐑𝐓 𝐁𝐎𝐓 𝐈𝐌𝐀𝐆𝐄 𝐔𝐑𝐋, 𝐆𝐄𝐓 𝐈𝐓 𝐅𝐑𝐎𝐌 ;- t.me/vTelegraphBot",
-        "value": "https://graph.org/file/6461b3ec1edb3c561b144.jpg",
+        "value": "https://telegra.ph/file/9c3760d876b93d78caddf.jpg",
         "required": false
       },
       "LOGGER_ID": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐋𝐎𝐆 𝐆𝐑𝐎𝐔𝐏 𝐈𝐃 𝐖𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐁𝐎𝐓 𝐀𝐋𝐖𝐀𝐘𝐒 𝐒𝐓𝐀𝐘 𝐀𝐃𝐌𝐈𝐍 (𝐈𝐃 𝐌𝐔𝐒𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 𝐖𝐈𝐓𝐇 -100).",
-        "value": "-1001992970818",
+        "value": "-1002014882444",
         "required": true
       }
     },
