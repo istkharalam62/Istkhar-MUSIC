@@ -98,10 +98,7 @@ async def member_has_left(client: app, member: ChatMemberUpdated):
         else:
             welcome_photo = random.choice(random_photo)
 
-        caption = f"**#New_Member_Left**\n\n**๏** {user.mention} **ʜᴀs ʟᴇғᴛ ᴛʜɪs ɢʀᴏᴜᴘ**\n**๏ sᴇᴇ ʏᴏᴜ sᴏᴏɴ ᴀɢᴀɪɴ..!**"
-        button_text = "๏ ᴠɪᴇᴡ ᴜsᴇʀ ๏"
-        deep_link = f"tg://openmessage?user_id={user.id}"
-
+        caption = f"**❅─────✧❅✦❅✧─────❅\n\n๏ ᴀ ᴍᴇᴍʙᴇʀ ʟᴇғᴛ ᴛʜᴇ ɢʀᴏᴜᴘ🥀\n\n➻ {member.old_chat_member.user.mention}\n\n๏ ᴏᴋ ʙʏᴇ ᴅᴇᴀʀ ᴀɴᴅ ʜᴏᴘᴇ ᴛᴏ sᴇᴇ ʏᴏᴜ ᴀɢᴀɪɴ ɪɴ ᴛʜɪs ᴄᴜᴛᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʏᴏᴜʀ ғʀɪᴇɴᴅs✨\n\nㅤ•─╼⃝𖠁 ʙʏᴇ ♡︎ ʙᴀʙʏ 𖠁⃝╾─•
         message = await client.send_photo(
             chat_id=member.chat.id,
             photo=welcome_photo,
