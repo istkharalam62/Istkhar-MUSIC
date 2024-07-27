@@ -8,7 +8,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 AUTO_GCASTS = f"{AUTO_GCAST}" if AUTO_GCAST else False
 
-START_IMG_URLS = "https://graph.org/file/6461b3ec1edb3c561b144.jpg"
+START_IMG_URLS = "https://telegra.ph/file/d037d6fdfe03fadc8e929.jpg"
 
 MESSAGES = f"""**ㅤㅤㅤ
 ┏━━━━━━━━━━━━━━━━━⧫
@@ -24,13 +24,13 @@ MESSAGES = f"""**ㅤㅤㅤ
 ┠ ◆ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs ᴄʟɪᴄᴋ ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ...
 ┗━━━━━━━━━━━━━━━━━⧫
 
-🥰𝙰𝚍𝚍 𝚒𝚗 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙:- @VIP_MUSIC_VC_BOT**"""
+🥰𝙰𝚍𝚍 𝚒𝚗 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙:- @VeenaMusic_bot**"""
 
 
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("๏𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 ๏", url=f"https://t.me/UR_RISHU_143")
+            InlineKeyboardButton("๏𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 ๏", url=f"https://t.me/VEENA_KI_DUNIYA")
         ]
     ]
 )
@@ -48,7 +48,7 @@ MESSAGE = f"""**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏ
 BUTTON = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏", url=f"https://t.me/@VIP_MUSIC_VC_BOT?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
+            InlineKeyboardButton("๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏", url=f"https://t.me/VeenaMusic_bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
         ]
     ]
 )
